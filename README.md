@@ -1,5 +1,5 @@
-This will just be my attempt to alter this stack to fit my own server to make it better ultimately
-Installation Guide
+This will just be my attempt to alter this stack to fit my own server to make it better and faster and ditch the ripple stack. Visit https://akatsuki.pw to support the orignal creator.
+Installation Guide 
 -------------
 important notes:
 - ubuntu 20.04 & nginx have unknown issues? i recommend using 18.04
